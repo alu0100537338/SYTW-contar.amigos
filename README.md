@@ -8,7 +8,7 @@ cuenta 'timoreilly'.
 
 Para ejecutar efectuamos:
 
-ruby amigos.rb <nombre_cuenta> [opcional] <numero_de_amigos_a_mostrar>
+ruby amigos.rb 'nombre_cuenta' [opcional] 'numero_de_amigos_a_mostrar'
 
 Se ha definido por defecto, a falta del argumento opcional, mostrar los 3 amigos
 con mas seguidores.
